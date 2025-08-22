@@ -3,5 +3,9 @@ body {
     text-decoration:solid;
     text-align: center;
     font-family:sans-serif;
+    font-weight: bold;
+    font-size: medium;
+    font-style: italic;
+    line-height: normal;
     background-image: url(3dgifmaker31405.gif);
 }
